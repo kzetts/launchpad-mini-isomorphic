@@ -12,11 +12,11 @@ In this repo there are 2 `.syx` files for custom modes, to be loaded with [Novat
 
 The scales are from C2-C6 in both major and minor key.
 
-## C2-C6 Major
+#### C2-C6 Major
 
 <img src="https://raw.githubusercontent.com/kzetts/launchpad-mini-isomorphic/main/img/lp-mini-mk3-major.png" width="500" height="500" />
 
-## C2-C6 Minor
+#### C2-C6 Minor
 
 <img src="https://raw.githubusercontent.com/kzetts/launchpad-mini-isomorphic/main/img/lp-mini-mk3-minor.png" width="500" height="500" />
 
